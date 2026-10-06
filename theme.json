@@ -1,0 +1,7 @@
+{
+    "name": "Corazón Rebelde",
+    "version": "1.0.0",
+    "author": "Rift",
+    "description": "Rebellious red, black and white theme with ransom-note titles, slanted menus and a spinning burst background",
+    "main": "theme.qml"
+}

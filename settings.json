@@ -1,0 +1,18 @@
+{
+  "settings": [
+    {
+      "key": "animatedBackground",
+      "label": "Animated Background",
+      "description": "Spinning burst rays and halftone dots. Turn off to save battery",
+      "type": "toggle",
+      "default": true
+    },
+    {
+      "key": "screenWipe",
+      "label": "Screen Wipe",
+      "description": "Jagged red and black wipe when entering or switching a system",
+      "type": "toggle",
+      "default": true
+    }
+  ]
+}
